@@ -1,0 +1,195 @@
+!DOCTYPE html>
+<html>
+ <head>
+   <title>Resume</title>
+ </head>
+
+
+<body>
+  <header>
+   <h2>Tam, Carl Angelo R.</h2>
+   <p>17. Malvar St., Aurora Hil, Baaguio City</p>
+   <p> Email: carlangelotam@gmail.com</p>
+   
+   </header>
+   <section>
+    <h4>PERSONAL DATA</h4>
+   <table>
+    <tr>
+      <td>Date of Birth
+      </td>
+    </tr>
+    <tr>
+      <td>June 22, 2000
+      </td>
+    </tr>
+    <tr>
+      <td>Place of Birth
+      </td>
+    </tr>
+    <tr>
+      <td>Baguio City
+      </td>
+    </tr><tr>
+      <td>Civil Status
+      </td>
+    </tr>
+    <tr>
+      <td>Single
+      </td>
+    </tr>
+    <tr>
+      <td>Citizenship
+      </td>
+    </tr>
+    <tr>
+      <td>Filipino
+      </td>
+    </tr>
+    <tr>
+      <td>Religion
+      </td>
+    </tr>
+    <tr>
+      <td>Christian
+      </td>
+    </tr>
+    <tr>
+      <td>Height
+      </td>
+    </tr>
+    <tr>
+      <td>5 feet 5 inches
+      </td>
+    </tr>
+    <tr>
+      <td>Weight
+      </td>
+    </tr>
+    <tr>
+      <td>140 lbs
+      </td>
+    </tr>
+    <tr>
+      <td>Mothers Name
+      </td>
+    </tr>
+    <tr>
+      <td>Minerva R. Tam
+      </td>
+    </tr>
+    </table>
+  </section>
+  <section>
+   <h4>EDUCATIONAL BACKGROUND/h4>
+  <table>
+    <tr>
+      <td>Primary
+      </td>
+    </tr>
+    <tr>
+      <td>Baguio Central School
+      </td>
+    </tr>
+   <tr>
+      <td>Baguio City
+      </td>
+    </tr>
+   <tr>
+      <td>2007-2013
+      </td>
+    </tr>
+     <tr>
+      <td>Secondary
+      </td>
+    </tr>
+    <tr>
+      <td>Benguet National High School main
+      </td>
+    </tr>
+   <tr>
+      <td>La Trinidad, Benguet
+      </td>
+    </tr>
+   <tr>
+      <td>2013-2016
+      </td>
+    </tr>
+   <tr>
+      <td>Tertiary
+      </td>
+    </tr>
+   <tr>
+      <td>University of the Cordilleras
+      </td>
+    </tr>
+   <tr>
+      <td>Baguio City
+      </td>
+    </tr>
+   <tr>
+      <td>2018-2021
+      </td>
+    </tr>
+</table>
+  </section>
+  <section>
+   <h4>SKILLS</h4>
+  <table>
+<ul>
+  <li>Analytical Skills</li>
+  <li>Photoshop</li>
+  <li>Video Editing</li>
+  <li>WordPress</li>
+  <li>Multi-Tasking</li>
+  <li>Hardworking</li>
+
+</ul>
+
+<h1>Resume</h1>
+  <p>My tagline</p>
+ </header>
+ <aside>
+  
+  <nav>
+   <h1>Resume</h1>
+   <ul>
+    <li><a href="https://resume.example.com/"></a>
+   </ul>
+  </nav>
+  <nav>
+   <h1>Archives</h1>
+   <ol reversed>
+    <li><a href="/last-post">My last post</a>
+    <li><a href="/first-post">My first post</a>
+   </ol>
+  </nav>
+ </aside>
+<nav>
+    <h1>Navigation Menu</h1>
+    <ul>
+        <li><a href="page1.html">page1</a></li>
+        <li><a href="page2.html">page2</a></li>
+        <li><a href="page3.html">page3</a></li>
+    </ul>
+</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
